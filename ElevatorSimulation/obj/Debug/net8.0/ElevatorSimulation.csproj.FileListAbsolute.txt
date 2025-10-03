@@ -1,0 +1,14 @@
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\bin\Debug\net8.0\ElevatorSimulation.exe
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\bin\Debug\net8.0\ElevatorSimulation.deps.json
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\bin\Debug\net8.0\ElevatorSimulation.runtimeconfig.json
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\bin\Debug\net8.0\ElevatorSimulation.dll
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\bin\Debug\net8.0\ElevatorSimulation.pdb
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\obj\Debug\net8.0\ElevatorSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\obj\Debug\net8.0\ElevatorSimulation.AssemblyInfoInputs.cache
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\obj\Debug\net8.0\ElevatorSimulation.AssemblyInfo.cs
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\obj\Debug\net8.0\ElevatorSimulation.csproj.CoreCompileInputs.cache
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\obj\Debug\net8.0\ElevatorSimulation.dll
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\obj\Debug\net8.0\refint\ElevatorSimulation.dll
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\obj\Debug\net8.0\ElevatorSimulation.pdb
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\obj\Debug\net8.0\ElevatorSimulation.genruntimeconfig.cache
+C:\Users\nites\Documents\ElevatorSimulation\ElevatorSimulation\obj\Debug\net8.0\ref\ElevatorSimulation.dll
