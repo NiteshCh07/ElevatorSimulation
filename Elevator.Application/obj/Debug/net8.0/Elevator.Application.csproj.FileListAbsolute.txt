@@ -1,0 +1,16 @@
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\bin\Debug\net8.0\Elevator.Application.deps.json
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\bin\Debug\net8.0\Elevator.Application.dll
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\bin\Debug\net8.0\Elevator.Application.pdb
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\bin\Debug\net8.0\Elevator.Domain.dll
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\bin\Debug\net8.0\Elevator.Domain.pdb
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\obj\Debug\net8.0\Elevator.Application.csproj.AssemblyReference.cache
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\obj\Debug\net8.0\Elevator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\obj\Debug\net8.0\Elevator.Application.AssemblyInfoInputs.cache
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\obj\Debug\net8.0\Elevator.Application.AssemblyInfo.cs
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\obj\Debug\net8.0\Elevator.Application.csproj.CoreCompileInputs.cache
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\obj\Debug\net8.0\Elevator.Application.sourcelink.json
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\obj\Debug\net8.0\Elevator.8D6B7D55.Up2Date
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\obj\Debug\net8.0\Elevator.Application.dll
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\obj\Debug\net8.0\refint\Elevator.Application.dll
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\obj\Debug\net8.0\Elevator.Application.pdb
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Application\obj\Debug\net8.0\ref\Elevator.Application.dll

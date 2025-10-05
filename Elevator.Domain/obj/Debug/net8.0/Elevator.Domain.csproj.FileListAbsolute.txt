@@ -1,0 +1,12 @@
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\bin\Debug\net8.0\Elevator.Domain.deps.json
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\bin\Debug\net8.0\Elevator.Domain.dll
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\bin\Debug\net8.0\Elevator.Domain.pdb
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\obj\Debug\net8.0\Elevator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\obj\Debug\net8.0\Elevator.Domain.AssemblyInfoInputs.cache
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\obj\Debug\net8.0\Elevator.Domain.AssemblyInfo.cs
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\obj\Debug\net8.0\Elevator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\obj\Debug\net8.0\Elevator.Domain.sourcelink.json
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\obj\Debug\net8.0\Elevator.Domain.dll
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\obj\Debug\net8.0\refint\Elevator.Domain.dll
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\obj\Debug\net8.0\Elevator.Domain.pdb
+C:\Users\nites\Documents\ElevatorControlSystem\Elevator.Domain\obj\Debug\net8.0\ref\Elevator.Domain.dll

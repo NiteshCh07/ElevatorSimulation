@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\ElevatorSimulation.csproj": {}
+    "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation\\ElevatorSimulation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\ElevatorSimulation.csproj": {
+    "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation\\ElevatorSimulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\ElevatorSimulation.csproj",
+        "projectUniqueName": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation\\ElevatorSimulation.csproj",
         "projectName": "ElevatorSimulation",
-        "projectPath": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\ElevatorSimulation.csproj",
+        "projectPath": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation\\ElevatorSimulation.csproj",
         "packagesPath": "C:\\Users\\nites\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\obj\\",
+        "outputPath": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElevatorSimulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16e8cb7ce9f385693b6faebe7425b78f0d356d99")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElevatorSimulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElevatorSimulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

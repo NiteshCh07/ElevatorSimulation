@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Elevator.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Elevator.Application": "1.0.0",
+          "Elevator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Elevator.Infrastructure.dll": {}
+        }
+      },
+      "Elevator.Application/1.0.0": {
+        "dependencies": {
+          "Elevator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Elevator.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Elevator.Domain/1.0.0": {
+        "runtime": {
+          "Elevator.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elevator.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Elevator.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Elevator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

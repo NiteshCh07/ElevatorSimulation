@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eJPv0N+KhW0=",
+  "dgSpecHash": "qr02u5xsnBA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\ElevatorSimulation.Tests.csproj",
+  "projectFilePath": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation.Tests\\Elevator.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nites\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\nites\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

@@ -1,32 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\",
+  "WorkspaceRootPath": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6476419-B5E8-4F7F-88E9-6D3CF9095E80}|ElevatorSimulation.csproj|c:\\users\\nites\\documents\\elevatorsimulation\\elevatorsimulation\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6476419-B5E8-4F7F-88E9-6D3CF9095E80}|ElevatorSimulation.csproj|solutionrelative:elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09D13BDB-00F5-4F53-B40B-7F0B27DE2702}|..\\ElevatorSimulation.Tests\\Elevator.Tests.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevatorsimulation.tests\\processelevatorrequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6476419-B5E8-4F7F-88E9-6D3CF9095E80}|ElevatorSimulation.csproj|c:\\users\\nites\\documents\\elevatorsimulation\\elevatorsimulation\\simulation\\randomrequestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6476419-B5E8-4F7F-88E9-6D3CF9095E80}|ElevatorSimulation.csproj|solutionrelative:simulation\\randomrequestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB20BF13-E625-4212-AA25-52617FE556D1}|..\\Elevator.Console\\Elevator.Console.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6476419-B5E8-4F7F-88E9-6D3CF9095E80}|ElevatorSimulation.csproj|c:\\users\\nites\\documents\\elevatorsimulation\\elevatorsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6476419-B5E8-4F7F-88E9-6D3CF9095E80}|ElevatorSimulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81F93797-7746-4B53-8EF6-E6AFC8AEDD41}|..\\Elevator.Infrastructure\\Elevator.Infrastructure.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.infrastructure\\simpleconsoledispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6476419-B5E8-4F7F-88E9-6D3CF9095E80}|ElevatorSimulation.csproj|c:\\users\\nites\\documents\\elevatorsimulation\\elevatorsimulation\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6476419-B5E8-4F7F-88E9-6D3CF9095E80}|ElevatorSimulation.csproj|solutionrelative:models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81F93797-7746-4B53-8EF6-E6AFC8AEDD41}|..\\Elevator.Infrastructure\\Elevator.Infrastructure.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.infrastructure\\inmemoryelevatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6476419-B5E8-4F7F-88E9-6D3CF9095E80}|ElevatorSimulation.csproj|c:\\users\\nites\\documents\\elevatorsimulation\\elevatorsimulation\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6476419-B5E8-4F7F-88E9-6D3CF9095E80}|ElevatorSimulation.csproj|solutionrelative:utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8CE8ABC-2E9E-481B-8499-AE222FCA691A}|..\\Elevator.Application\\Elevator.Application.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.application\\usecases\\processelevatorrequestusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09D13BDB-00F5-4F53-B40B-7F0B27DE2702}|..\\ElevatorSimulation.Tests\\ElevatorSimulation.Tests.csproj|c:\\users\\nites\\documents\\elevatorsimulation\\elevatorsimulation.tests\\elevatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0495A978-AC62-421C-8D0E-6BD508C31941}|..\\Elevator.Domain\\Elevator.Domain.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.domain\\elevatorrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09D13BDB-00F5-4F53-B40B-7F0B27DE2702}|..\\ElevatorSimulation.Tests\\ElevatorSimulation.Tests.csproj|c:\\users\\nites\\documents\\elevatorsimulation\\elevatorsimulation.tests\\randomrequestgeneratortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0495A978-AC62-421C-8D0E-6BD508C31941}|..\\Elevator.Domain\\Elevator.Domain.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.domain\\elevatordirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0495A978-AC62-421C-8D0E-6BD508C31941}|..\\Elevator.Domain\\Elevator.Domain.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.domain\\ielevatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0495A978-AC62-421C-8D0E-6BD508C31941}|..\\Elevator.Domain\\Elevator.Domain.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.domain\\elevatorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20BF13-E625-4212-AA25-52617FE556D1}|..\\Elevator.Console\\Elevator.Console.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.console\\elevator.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F93797-7746-4B53-8EF6-E6AFC8AEDD41}|..\\Elevator.Infrastructure\\Elevator.Infrastructure.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.infrastructure\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F93797-7746-4B53-8EF6-E6AFC8AEDD41}|..\\Elevator.Infrastructure\\Elevator.Infrastructure.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.infrastructure\\consoledisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F93797-7746-4B53-8EF6-E6AFC8AEDD41}|..\\Elevator.Infrastructure\\Elevator.Infrastructure.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.infrastructure\\randomrequestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CE8ABC-2E9E-481B-8499-AE222FCA691A}|..\\Elevator.Application\\Elevator.Application.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.application\\services\\simplescheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CE8ABC-2E9E-481B-8499-AE222FCA691A}|..\\Elevator.Application\\Elevator.Application.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.application\\usecases\\getstatususecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CE8ABC-2E9E-481B-8499-AE222FCA691A}|..\\Elevator.Application\\Elevator.Application.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.application\\dtos\\elevatorstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CE8ABC-2E9E-481B-8499-AE222FCA691A}|..\\Elevator.Application\\Elevator.Application.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.application\\interfaces\\iclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CE8ABC-2E9E-481B-8499-AE222FCA691A}|..\\Elevator.Application\\Elevator.Application.csproj|c:\\users\\nites\\documents\\elevatorcontrolsystem\\elevator.application\\interfaces\\irequestdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\RandomRequestGeneratorTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\ElevatorTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,100 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T10:01:16.034Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RandomRequestGeneratorTests.cs",
-              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\RandomRequestGeneratorTests.cs",
-              "RelativeDocumentMoniker": "..\\ElevatorSimulation.Tests\\RandomRequestGeneratorTests.cs",
-              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\RandomRequestGeneratorTests.cs",
-              "RelativeToolTip": "..\\ElevatorSimulation.Tests\\RandomRequestGeneratorTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T10:13:38.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ElevatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\ElevatorTests.cs",
-              "RelativeDocumentMoniker": "..\\ElevatorSimulation.Tests\\ElevatorTests.cs",
-              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\ElevatorTests.cs",
-              "RelativeToolTip": "..\\ElevatorSimulation.Tests\\ElevatorTests.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T10:13:12.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\Utils\\Logger.cs",
-              "RelativeDocumentMoniker": "Utils\\Logger.cs",
-              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\Utils\\Logger.cs",
-              "RelativeToolTip": "Utils\\Logger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T10:06:37.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RandomRequestGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\Simulation\\RandomRequestGenerator.cs",
-              "RelativeDocumentMoniker": "Simulation\\RandomRequestGenerator.cs",
-              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\Simulation\\RandomRequestGenerator.cs",
-              "RelativeToolTip": "Simulation\\RandomRequestGenerator.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T10:05:47.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Direction.cs",
-              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\Models\\Direction.cs",
-              "RelativeDocumentMoniker": "Models\\Direction.cs",
-              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\Models\\Direction.cs",
-              "RelativeToolTip": "Models\\Direction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T10:05:01.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Elevator.cs",
-              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\Elevator.cs",
-              "RelativeDocumentMoniker": "Elevator.cs",
-              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\Elevator.cs",
-              "RelativeToolTip": "Elevator.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwEMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T10:04:30.567Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -137,6 +79,254 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleConsoleDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\SimpleConsoleDispatcher.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Infrastructure\\SimpleConsoleDispatcher.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\SimpleConsoleDispatcher.cs",
+              "RelativeToolTip": "..\\Elevator.Infrastructure\\SimpleConsoleDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:30:45.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Elevator.Console.csproj",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Console\\Elevator.Console.csproj",
+              "RelativeDocumentMoniker": "..\\Elevator.Console\\Elevator.Console.csproj",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Console\\Elevator.Console.csproj",
+              "RelativeToolTip": "..\\Elevator.Console\\Elevator.Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T15:45:27.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessElevatorRequestTests.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation.Tests\\ProcessElevatorRequestTests.cs",
+              "RelativeDocumentMoniker": "..\\ElevatorSimulation.Tests\\ProcessElevatorRequestTests.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation.Tests\\ProcessElevatorRequestTests.cs",
+              "RelativeToolTip": "..\\ElevatorSimulation.Tests\\ProcessElevatorRequestTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:44:14.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\Clock.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Infrastructure\\Clock.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\Clock.cs",
+              "RelativeToolTip": "..\\Elevator.Infrastructure\\Clock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:42:23.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Console\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Console\\Program.cs",
+              "RelativeToolTip": "..\\Elevator.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:41:47.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsoleDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\ConsoleDisplay.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Infrastructure\\ConsoleDisplay.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\ConsoleDisplay.cs",
+              "RelativeToolTip": "..\\Elevator.Infrastructure\\ConsoleDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:39:52.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RandomRequestGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\RandomRequestGenerator.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Infrastructure\\RandomRequestGenerator.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\RandomRequestGenerator.cs",
+              "RelativeToolTip": "..\\Elevator.Infrastructure\\RandomRequestGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:39:00.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryElevatorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\InMemoryElevatorRepository.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Infrastructure\\InMemoryElevatorRepository.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\InMemoryElevatorRepository.cs",
+              "RelativeToolTip": "..\\Elevator.Infrastructure\\InMemoryElevatorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:36:11.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SimpleScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\Services\\SimpleScheduler.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Application\\Services\\SimpleScheduler.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\Services\\SimpleScheduler.cs",
+              "RelativeToolTip": "..\\Elevator.Application\\Services\\SimpleScheduler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:34:53.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetStatusUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\UseCases\\GetStatusUseCase.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Application\\UseCases\\GetStatusUseCase.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\UseCases\\GetStatusUseCase.cs",
+              "RelativeToolTip": "..\\Elevator.Application\\UseCases\\GetStatusUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:34:03.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProcessElevatorRequestUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\UseCases\\ProcessElevatorRequestUseCase.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Application\\UseCases\\ProcessElevatorRequestUseCase.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\UseCases\\ProcessElevatorRequestUseCase.cs",
+              "RelativeToolTip": "..\\Elevator.Application\\UseCases\\ProcessElevatorRequestUseCase.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:32:43.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IClock.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\Interfaces\\IClock.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Application\\Interfaces\\IClock.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\Interfaces\\IClock.cs",
+              "RelativeToolTip": "..\\Elevator.Application\\Interfaces\\IClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:30:38.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRequestDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\Interfaces\\IRequestDispatcher.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Application\\Interfaces\\IRequestDispatcher.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\Interfaces\\IRequestDispatcher.cs",
+              "RelativeToolTip": "..\\Elevator.Application\\Interfaces\\IRequestDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:29:31.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ElevatorStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\DTOs\\ElevatorStatusDto.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Application\\DTOs\\ElevatorStatusDto.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\DTOs\\ElevatorStatusDto.cs",
+              "RelativeToolTip": "..\\Elevator.Application\\DTOs\\ElevatorStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:28:42.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IElevatorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Domain\\IElevatorRepository.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Domain\\IElevatorRepository.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Domain\\IElevatorRepository.cs",
+              "RelativeToolTip": "..\\Elevator.Domain\\IElevatorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:26:52.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElevatorRun.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Domain\\ElevatorRun.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Domain\\ElevatorRun.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Domain\\ElevatorRun.cs",
+              "RelativeToolTip": "..\\Elevator.Domain\\ElevatorRun.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:26:10.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElevatorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Domain\\ElevatorRequest.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Domain\\ElevatorRequest.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Domain\\ElevatorRequest.cs",
+              "RelativeToolTip": "..\\Elevator.Domain\\ElevatorRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:25:21.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElevatorDirection.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Domain\\ElevatorDirection.cs",
+              "RelativeDocumentMoniker": "..\\Elevator.Domain\\ElevatorDirection.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Domain\\ElevatorDirection.cs",
+              "RelativeToolTip": "..\\Elevator.Domain\\ElevatorDirection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:22:49.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RandomRequestGeneratorTests.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\RandomRequestGeneratorTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\ElevatorSimulation\\ElevatorSimulation.Tests\\RandomRequestGeneratorTests.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\RandomRequestGeneratorTests.cs",
+              "RelativeToolTip": "..\\..\\ElevatorSimulation\\ElevatorSimulation.Tests\\RandomRequestGeneratorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:13:38.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ElevatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\ElevatorTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\ElevatorSimulation\\ElevatorSimulation.Tests\\ElevatorTests.cs",
+              "ToolTip": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\ElevatorTests.cs",
+              "RelativeToolTip": "..\\..\\ElevatorSimulation\\ElevatorSimulation.Tests\\ElevatorTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:13:12.974Z"
             }
           ]
         }

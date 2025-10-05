@@ -1709,14 +1709,41 @@
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "ElevatorSimulation/1.0.0": {
+      "Elevator.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Elevator.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Elevator.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Elevator.Application.dll": {}
+        }
+      },
+      "Elevator.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/ElevatorSimulation.dll": {}
+          "bin/placeholder/Elevator.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ElevatorSimulation.dll": {}
+          "bin/placeholder/Elevator.Domain.dll": {}
+        }
+      },
+      "Elevator.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Elevator.Application": "1.0.0",
+          "Elevator.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Elevator.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Elevator.Infrastructure.dll": {}
         }
       }
     }
@@ -5508,15 +5535,27 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "ElevatorSimulation/1.0.0": {
+    "Elevator.Application/1.0.0": {
       "type": "project",
-      "path": "../ElevatorSimulation/ElevatorSimulation.csproj",
-      "msbuildProject": "../ElevatorSimulation/ElevatorSimulation.csproj"
+      "path": "../Elevator.Application/Elevator.Application.csproj",
+      "msbuildProject": "../Elevator.Application/Elevator.Application.csproj"
+    },
+    "Elevator.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Elevator.Domain/Elevator.Domain.csproj",
+      "msbuildProject": "../Elevator.Domain/Elevator.Domain.csproj"
+    },
+    "Elevator.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Elevator.Infrastructure/Elevator.Infrastructure.csproj",
+      "msbuildProject": "../Elevator.Infrastructure/Elevator.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ElevatorSimulation >= 1.0.0",
+      "Elevator.Application >= 1.0.0",
+      "Elevator.Domain >= 1.0.0",
+      "Elevator.Infrastructure >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
@@ -5530,11 +5569,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\ElevatorSimulation.Tests.csproj",
-      "projectName": "ElevatorSimulation.Tests",
-      "projectPath": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\ElevatorSimulation.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation.Tests\\Elevator.Tests.csproj",
+      "projectName": "Elevator.Tests",
+      "projectPath": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation.Tests\\Elevator.Tests.csproj",
       "packagesPath": "C:\\Users\\nites\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation.Tests\\obj\\",
+      "outputPath": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\ElevatorSimulation.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5555,8 +5594,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\ElevatorSimulation.csproj": {
-              "projectPath": "C:\\Users\\nites\\Documents\\ElevatorSimulation\\ElevatorSimulation\\ElevatorSimulation.csproj"
+            "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\Elevator.Application.csproj": {
+              "projectPath": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Application\\Elevator.Application.csproj"
+            },
+            "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Domain\\Elevator.Domain.csproj": {
+              "projectPath": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Domain\\Elevator.Domain.csproj"
+            },
+            "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\Elevator.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\nites\\Documents\\ElevatorControlSystem\\Elevator.Infrastructure\\Elevator.Infrastructure.csproj"
             }
           }
         }
